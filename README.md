@@ -1,4 +1,4 @@
-QuickNet-3.1:
+QuickNet-2.3:
 
 Quick Inc. acknowledges the following to be vital during this app's development:
 
